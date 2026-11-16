@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+env/
+venv/
+.venv/
+ENV/
+
+# Logs
+*.log
+
+# NASA FIRMS Raw Data (arquivos zip volumosos ~5GB)
+*.zip
+*.tar.gz
+
+# Pipeline dados intermediários e arquivos grandes (>100MB bloqueados pelo GitHub)
+data/parquet/
+data/agg/daily_grid.parquet
+data/agg/harmonized_daily_grid.parquet
+data/export/
+
+# Frontend
+node_modules/
+app/frontend/node_modules/
+app/frontend/dist/
+*.local
+
+# Variáveis de ambiente
+.env
+.env.*
+!.env.example
+
+# IDEs e Sistema Operacional
+.vscode/
+.idea/
+.claude/
+.DS_Store
+Thumbs.db

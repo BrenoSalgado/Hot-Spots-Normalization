@@ -1,0 +1,19 @@
+{
+  "selected": "block_month_n",
+  "metric": "n",
+  "region": "block",
+  "by_month": true,
+  "alpha": 3000.0,
+  "beta": 20000.0,
+  "block_deg": 2.0,
+  "f_all": 0.2568154865759923,
+  "overlap": [
+    "2018-04-01",
+    "2020-12-31"
+  ],
+  "cv_years": [
+    2018,
+    2019,
+    2020
+  ]
+}
