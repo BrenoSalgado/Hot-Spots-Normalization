@@ -1,5 +1,7 @@
 # Harmonized Burning Activity Calendar
 
+https://youtu.be/r27FLiKzIDo?si=hsf79szndPlhci-f
+
 NASA Space Apps 2026 — challenge *Harmonization of MODIS and VIIRS hotspots* (CONAE).
 
 One consistent hotspot time series for South America, 2002–2025, built from NASA FIRMS
